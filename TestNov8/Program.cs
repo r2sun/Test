@@ -6,7 +6,7 @@ namespace TestNov8
     {
         static void Main(string[] args)
         {
-
+            System.Console.WriteLine("Still practicing");
         }
     }
 }
